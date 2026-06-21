@@ -1,7 +1,7 @@
 kendo:
   timeline:
     # The title of the previous button in horizontal orientation.
-    previous: previous
+    previous: anterior
 
     # The title of the next button in horizontal orientation.
-    next: next
+    next: próximo

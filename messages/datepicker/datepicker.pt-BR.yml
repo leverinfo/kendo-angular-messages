@@ -4,16 +4,16 @@ kendo:
     today: Hoje
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Alternar calendário
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Ir para a visualização anterior
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Ir para a próxima visualização
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Ir para a visualização superior
 
     # The title for the **Clear** button in the DatePicker
-    clearTitle: Clear
+    clearTitle: Limpar

@@ -28,10 +28,10 @@ kendo:
     pagerItemsPerPage: itens por página
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Número da página
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtro
 
     # The text of the "equal" filter operator
     filterEqOperator: É igual a
@@ -43,13 +43,13 @@ kendo:
     filterIsNullOperator: É nulo
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: É não nulo
+    filterIsNotNullOperator: Não é nulo
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: É vazio
+    filterIsEmptyOperator: Está vazio
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: É não vazio
+    filterIsNotEmptyOperator: Não está vazio
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: Começa com
@@ -64,19 +64,19 @@ kendo:
     filterEndsWithOperator: Termina com
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: É maior que ou igual a
+    filterGteOperator: É maior ou igual a
 
     # The text of the "greater than" filter operator
     filterGtOperator: É maior que
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: É menor que ou igual a
+    filterLteOperator: É menor ou igual a
 
     # The text of the "less than" filter operator
-    filterLtOperator: É menor que ou igual a
+    filterLtOperator: É menor que
 
     # The text of the "Is true" filter option
-    filterIsTrue: É verdade
+    filterIsTrue: É verdadeiro
 
     # The text of the "Is false" filter option
     filterIsFalse: É falso
@@ -85,16 +85,16 @@ kendo:
     filterBooleanAll: (Todos)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: É posterior ou igual a
+    filterAfterOrEqualOperator: É depois ou igual a
 
     # The text of the after date filter operator
-    filterAfterOperator: É posterior a
+    filterAfterOperator: É depois de
 
     # The text of the before date filter operator
-    filterBeforeOperator: É anterior a
+    filterBeforeOperator: É antes de
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: É anterior ou igual a
+    filterBeforeOrEqualOperator: É antes ou igual a
 
     # The text of the "filter button"
     filterFilterButton: Filtrar

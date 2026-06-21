@@ -1,67 +1,67 @@
 kendo:
   chat:
     # The placholder text of the message text input
-    messagePlaceholder: Type a message...
+    messagePlaceholder: Digite uma mensagem...
 
     # The label text for the Message list
-    messageListLabel: Message list
+    messageListLabel: Lista de Mensagens
 
     # The label text for the Message input box
-    messageBoxInputLabel: Message
+    messageBoxInputLabel: Mensagem
 
     # The text for the left arrow of the message attachments
-    messageAttachmentLeftArrow: Previous Item
+    messageAttachmentLeftArrow: Item Anterior
 
     # The text for the right arrow of the message attachments
-    messageAttachmentRightArrow: Next Item
+    messageAttachmentRightArrow: Próximo Item
 
     # The alt attribute text for the avatar
     messageAvatarAlt: Avatar
 
     # The text that is displayed when the sender deletes a message
-    deletedMessageSenderText: You removed this message.
+    deletedMessageSenderText: Você removeu esta mensagem.
 
     # The text that is displayed when the receiver deletes a message
-    deletedMessageReceiverText: This message was removed by its sender.
+    deletedMessageReceiverText: Esta mensagem foi removida pelo remetente.
 
     # The text that is displayed when the message has failed to send
-    messageFailedText: Failed to send
+    messageFailedText: Falha ao enviar
 
     # Sets the aria-label for the input/textarea element.
-    messageBoxTitle: Message
+    messageBoxTitle: Mensagem
 
     # The text for the Action button
-    actionButtonTitle: Send...
+    actionButtonTitle: Enviar...
 
     # Sets the Speech to Text button title.
-    speechToTextButtonTitle: Speech to Text
+    speechToTextButtonTitle: Voz para Texto
 
     # Sets the File Select button title.
-    fileSelectButtonTitle: Select files
+    fileSelectButtonTitle: Selecionar arquivos
 
     # Sets the title of the icon which removes the reply reference in the Message Box.
-    removeReplyTitle: Remove reply
+    removeReplyTitle: Remover resposta
 
     # Sets the title of the icon which removes a selected file in the Message Box.
-    removeFileTitle: Remove file
+    removeFileTitle: Remover arquivo
 
     # Sets the title of the icon which demonstrates that the message can be expanded.
-    expandTitle: Expand message
+    expandTitle: Expandir mensagem
 
     # Sets the title of the icon which demonstrates that the message can be collapsed.
-    collapseTitle: Collapse message
+    collapseTitle: Recolher mensagem
 
     # Sets the title of the DropDownButton which opens the File actions.
-    fileActionsTitle: File actions
+    fileActionsTitle: Ações do arquivo
 
     # Sets the text that is displayed in the download section of the message.
-    downloadAllFilesText: Download all
+    downloadAllFilesText: Baixar tudo
 
     # The title of the button that scrolls to the previous suggestions
-    previousSuggestionsButtonTitle: Scroll left
+    previousSuggestionsButtonTitle: Rolar para a esquerda
 
     # The title of the button that scrolls to the next suggestions
-    nextSuggestionsButtonTitle: Scroll right
+    nextSuggestionsButtonTitle: Rolar para a direita
 
     # The title of the button that unpins a pinned message
-    unpinMessageTitle: Unpin message
+    unpinMessageTitle: Desfixar mensagem

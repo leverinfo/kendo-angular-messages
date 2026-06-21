@@ -1,10 +1,10 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept:	Pôr
+    accept: Definir
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: Pôr
+    acceptLabel: Definir
 
     # The text of the Cancel button in the popup footer of the TimeList.
     cancel: Cancelar
@@ -19,22 +19,22 @@ kendo:
     nowLabel: Agora
 
     # The label for the toggle button in the timepicker component
-    toggle: Lista de alternância
+    toggle: Alternar lista
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Hora
 
     # The label for the minute part in the timepicker component
-    minute: Minute
+    minute: Minuto
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Segundo
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Milissegundo
 
     # The label for the dayperiod part in the timepicker component
-    dayperiod: Dayperiod
+    dayperiod: Período do dia
 
     # The title for the **Clear** button in the TimePicker
-    clearTitle: Clear
+    clearTitle: Limpar

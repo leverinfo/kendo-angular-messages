@@ -1,55 +1,55 @@
 kendo:
   colorgradient:
     # The aria-label applied to the ColorGradient component when the value is empty
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Sem cor selecionada
 
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Choose color
+    colorGradientHandle: Selecionar cor
 
     # The title for the clear button
-    clearButton: Clear value
+    clearButton: Limpar
 
     # The title for the hue slider handle
-    hueSliderHandle: Set hue
+    hueSliderHandle: Ajustar matiz
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Ajustar opacidade
 
     # The placeholder for the HEX color input
-    hexInputPlaceholder: HEX Color
+    hexInputPlaceholder: HEX
 
     # The placeholder for the red color input
-    redInputPlaceholder: Red
+    redInputPlaceholder: Vermelho
 
     # The placeholder for the green color input
-    greenInputPlaceholder: Green
+    greenInputPlaceholder: Verde
 
     # The placeholder for the blue color input
-    blueInputPlaceholder: Blue
+    blueInputPlaceholder: Azul
 
     # The placeholder for the alpha input
-    alphaInputPlaceholder: Alpha
+    alphaInputPlaceholder: Alfa
 
     # The label of the NumericTextBox representing the red color channel.
-    redChannelLabel: Red channel
+    redChannelLabel: Vermelho
 
     # The label of the NumericTextBox representing the green color channel.
-    greenChannelLabel: Green channel
+    greenChannelLabel: Verde
 
     # The label of the NumericTextBox representing the blue color channel.
-    blueChannelLabel: Blue channel
+    blueChannelLabel: Azul
 
     # The label of the NumericTextBox representing the alpha color channel.
-    alphaChannelLabel: Alpha channel
+    alphaChannelLabel: Alfa
 
     # The pass message for the contrast tool.
-    passContrast: Pass
+    passContrast: Aprovado
 
     # The contrast ratio message for the contrast tool.
-    contrastRatio: Contrast ratio
+    contrastRatio: Relação de contraste
 
     # The fail message for the contrast tool.
-    failContrast: Fail
+    failContrast: Reprovado
 
     # The message for the input format toggle button.
-    formatButton: Change color format
+    formatButton: Alterar formato de cor

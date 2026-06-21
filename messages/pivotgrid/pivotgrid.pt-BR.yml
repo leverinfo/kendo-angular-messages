@@ -1,106 +1,106 @@
 kendo:
   pivotgrid:
     # The value of the aria-label attribute placed on the focusable empty cell element
-    emptyCellLabel: PivotGrid Empty Cell
+    emptyCellLabel: Célula vazia da Tabela Dinâmica
 
     # The text content of the filter item in the column and row fields menu
-    fieldMenuFilterItemLabel: Filter
+    fieldMenuFilterItemLabel: Filtro
 
     # The label of the filter input
-    filterInputLabel: '{fields} Filter'
+    filterInputLabel: 'Filtro de {fields}'
 
     # The label of the filter operators DropDownList
-    filterOperatorsDropDownLabel: '{fields} Filter Operators'
+    filterOperatorsDropDownLabel: 'Operadores de filtro de {fields}'
 
     # The text of the "equal" filter operator
-    filterEqOperator: Is equal to
+    filterEqOperator: É igual a
 
     # The text of the "not equal" filter operator
-    filterNotEqOperator: Is not equal to
+    filterNotEqOperator: Não é igual a
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Is null
+    filterIsNullOperator: É nulo
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: Is not null
+    filterIsNotNullOperator: Não é nulo
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: Is empty
+    filterIsEmptyOperator: Está vazio
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: Is not empty
+    filterIsNotEmptyOperator: Não está vazio
 
     # The text of the "starts with" filter operator
-    filterStartsWithOperator: Starts with
+    filterStartsWithOperator: Começa com
 
     # The text of the "contains" filter operator
-    filterContainsOperator: Contains
+    filterContainsOperator: Contém
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: Does not contain
+    filterNotContainsOperator: Não contém
 
     # The text of the "ends with" filter operator
-    filterEndsWithOperator: Ends with
+    filterEndsWithOperator: Termina com
 
     # The text of the "filter button"
-    filterFilterButton: Filter
+    filterFilterButton: Filtrar
 
     # The text of the "clear filter button"
-    filterClearButton: Clear
+    filterClearButton: Limpar
 
     # The text content of the sort ascending item in the column and row fields menu
-    fieldMenuSortAscendingItemLabel: Sort ascending
+    fieldMenuSortAscendingItemLabel: Classificar em ordem crescente
 
     # The text content of the sort descending item in the column and row fields menu
-    fieldMenuSortDescendingItemLabel: Sort descending
+    fieldMenuSortDescendingItemLabel: Classificar em ordem decrescente
 
     # The text content of the button that opens and closes the PivotGrid configurator
-    configuratorButtonText: Change Settings
+    configuratorButtonText: Alterar configurações
 
     # The text content of the PivotGrid configurator title element
-    configuratorHeaderText: Settings
+    configuratorHeaderText: Configurações
 
     # The text content of the PivotGrid configurator fields section title element
-    configuratorFieldsText: Fields
+    configuratorFieldsText: Campos
 
     # TThe text content of the PivotGrid configurator columns section title element
-    configuratorColumnsText: Columns
+    configuratorColumnsText: Colunas
 
     # The text content of the PivotGrid configurator rows section title element
-    configuratorRowsText: Rows
+    configuratorRowsText: Linhas
 
     # The text content of the PivotGrid configurator configurator Cancel button
-    configuratorCancelButtonText: Cancel
+    configuratorCancelButtonText: Cancelar
 
     # The text content of the PivotGrid configurator configurator Apply button
-    configuratorApplyButtonText: Apply
+    configuratorApplyButtonText: Aplicar
 
     # The loading text
-    loading: Loading
-    
+    loading: Carregando
+
     # The text content of the PivotGrid configurator values section title element.
-    configuratorValuesText: Values
+    configuratorValuesText: Valores
 
     # The text content of the PivotGrid configurator empty rows container.
-    configuratorEmptyRowsText: Select some fields to begin setup
+    configuratorEmptyRowsText: Selecione alguns campos para começar a configuração
 
     # The text content of the PivotGrid configurator empty columns container.
-    configuratorEmptyColumnsText: Select some fields to begin setup
+    configuratorEmptyColumnsText: Selecione alguns campos para começar a configuração
 
     # The text content of the PivotGrid configurator empty measures container.
-    configuratorEmptyMeasuresText: Select some fields to begin setup
-    
+    configuratorEmptyMeasuresText: Selecione alguns campos para começar a configuração
+
     # The text content of the Move to Columns item in the column and row fields menu
-    fieldMenuMoveToColumnsItem: Move to Columns
+    fieldMenuMoveToColumnsItem: Mover para Colunas
 
     # The text content of the Move to Rows item in the column and row fields menu
-    fieldMenuMoveToRowsItem: Move to Rows
+    fieldMenuMoveToRowsItem: Mover para Linhas
 
     # The text content of the Move as previous item in the column, row, and value fields menu
-    fieldMenuMovePreviousItem: Move as previous
+    fieldMenuMovePreviousItem: Mover como anterior
 
     # The text content of the Move as next item in the column, row, and value fields menu
-    fieldMenuMoveNextItem: Move as next
+    fieldMenuMoveNextItem: Mover como próximo
 
     # The text content of the PivotGrid configurator fields TreeView Measures node
     configuratorMeasuresText: Measures

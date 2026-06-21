@@ -1,91 +1,91 @@
 kendo:
   colorpicker:
     # The aria-label applied to the ColorGradient component when the value is empty
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Gradiente de cor sem cor escolhida
 
     # The aria-label applied to the ColorPalette component when the value is empty
-    colorPaletteNoColor: Colorpalette no color chosen
+    colorPaletteNoColor: Paleta de cores sem cor escolhida
 
     # The aria-label applied to the ColorPicker component when the value is empty
-    colorPickerNoColor: Colorpicker no color chosen
+    colorPickerNoColor: Seletor de cores sem cor escolhida
 
     # The aria-label applied to the FlatColorPicker component when the value is empty
-    flatColorPickerNoColor: Flatcolorpicker no color chosen
+    flatColorPickerNoColor: Seletor de cores planas sem cor escolhida
 
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Choose color
+    colorGradientHandle: Escolha a cor
 
     # The title for the clear button
-    clearButton: Clear value
+    clearButton: Limpar valor
 
     # The title for the hue slider handle
-    hueSliderHandle: Set hue
+    hueSliderHandle: Definir matiz
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Definir opacidade
 
     # The contrast ratio message for the contrast tool
-    contrastRatio: Contrast ratio
+    contrastRatio: Taxa de contraste
 
     # The placeholder for the HEX color input
-    hexInputPlaceholder: HEX Color
+    hexInputPlaceholder: Cor HEX
 
     # The placeholder for the red color input
-    redInputPlaceholder: Red
+    redInputPlaceholder: Vermelho
 
     # The placeholder for the green color input
-    greenInputPlaceholder: Green
+    greenInputPlaceholder: Verde
 
     # The placeholder for the blue color input
-    blueInputPlaceholder: Blue
+    blueInputPlaceholder: Azul
 
     # The placeholder for the alpha input
-    alphaInputPlaceholder: Alpha
+    alphaInputPlaceholder: Alfa
 
     # The message for the selected color pane
-    revertSelection: Revert selection
+    revertSelection: Reverter seleção
 
     # The message for the color preview pane
-    previewColor: Color preview
+    previewColor: Visualização de cores
 
     # The message for the gradient view button
-    gradientView: Gradient view
+    gradientView: Visualização de gradiente
 
     # The message for the palette view button
-    paletteView: Palette view
+    paletteView: Visualização de paleta
 
     # The message for the input format toggle button
-    formatButton: Change color format
+    formatButton: Alterar formato de cor
 
     # The message for the Apply action button
-    applyButton: Apply
+    applyButton: Aplicar
 
     # The message for the Cancel action button
-    cancelButton: Cancel
+    cancelButton: Cancelar
 
     # The label of the NumericTextBox representing the red color channel.
-    redChannelLabel: Red channel
+    redChannelLabel: Vermelho
 
     # The label of the NumericTextBox representing the green color channel.
-    greenChannelLabel: Green channel
+    greenChannelLabel: Verde
 
     # The label of the NumericTextBox representing the blue color channel.
-    blueChannelLabel: Blue channel
+    blueChannelLabel: Azul
 
     # The label of the NumericTextBox representing the alpha color channel.
-    alphaChannelLabel: Alpha channel
+    alphaChannelLabel: Alfa
 
     # The fail message for the contrast tool.
-    failContrast: Fail
+    failContrast: Reprovado
 
     # The pass message for the contrast tool.
-    passContrast: Pass
+    passContrast: Aprovado
 
     # The title for the Close button.
-    closeButton: Close
+    closeButton: Fechar
 
     # The title for the ActionSheet when in adaptive mode.
-    adaptiveTitle: Choose Color
+    adaptiveTitle: Escolher cor
 
     # The text set as aria-label on the toggle button
     toggleButtonLabel: Select color

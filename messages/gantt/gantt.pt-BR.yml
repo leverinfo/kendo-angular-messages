@@ -1,211 +1,211 @@
 kendo:
   gantt:
     # The title of the "General" tab of the editing dialog TabStrip
-    taskEditingGeneralTabTitle: General
+    taskEditingGeneralTabTitle: Geral
 
     # The title of the "Predecessors" dependencies tab of the editing dialog TabStrip
-    taskEditingPredecessorsTabTitle: Predecessors
+    taskEditingPredecessorsTabTitle: Predecessoras
 
     # The title of the "Successors" dependencies tab of the editing dialog TabStrip
-    taskEditingSuccessorsTabTitle: Successors
+    taskEditingSuccessorsTabTitle: Sucessoras
 
     # The text of the "Add" button in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesAddButtonText: Add
+    taskEditingDependenciesAddButtonText: Adicionar
 
     # The text of the "Remove" button in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesRemoveButtonText: Remove
+    taskEditingDependenciesRemoveButtonText: Remover
 
     # The title of the "Name" Grid column in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesGridNameColumnTitle: Task Title
+    taskEditingDependenciesGridNameColumnTitle: Título da tarefa
 
     # The title of the "Type" Grid column in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesGridTypeColumnTitle: Type
+    taskEditingDependenciesGridTypeColumnTitle: Tipo
 
     # The text of the task editing dialog "Delete" button
-    deleteButtonText: Delete
+    deleteButtonText: Excluir
 
     # The label for the task delete button
-    taskDeleteLabel: Delete
+    taskDeleteLabel: Excluir
 
     # The title of the task editing dialog
-    taskEditingDialogTitle: Editing Task
+    taskEditingDialogTitle: Editar tarefa
 
     # The title of the task editing dialog close button
-    taskEditingDialogCloseTitle: Close
+    taskEditingDialogCloseTitle: Fechar
 
     # The title of the confirmation dialog close button
-    confirmationDialogCloseTitle: Close
+    confirmationDialogCloseTitle: Fechar
 
     # The title of the delete task confirmation dialog
-    confirmationDialogTitle: Delete Task
+    confirmationDialogTitle: Excluir tarefa
 
     # The text of the DropDownButton in the AddTask component
-    addTaskText: Add Task
+    addTaskText: Adicionar tarefa
 
     # The text of the "Add Child" option in the AddTask component
-    addChildText: Add Child
+    addChildText: Adicionar subtarefa
 
     # The text of the "Add Above" option in the AddTask component
-    addAboveText: Add Above
+    addAboveText: Adicionar acima
 
     # The text of the "Add Below" option in the AddTask component
-    addBelowText: Add Below
+    addBelowText: Adicionar abaixo
 
     # The text of the task editing dialog "Cancel" button
-    cancelButtonText: Cancel
+    cancelButtonText: Cancelar
 
     # The text of the task editing dialog "Save" button
-    saveButtonText: Save
+    saveButtonText: Salvar
 
     # The label of the "title" field input in editing mode
-    titleFieldInputLabel: Title
+    titleFieldInputLabel: Título
 
     # The label of the "start" field input in editing mode
-    startFieldInputLabel: Start
+    startFieldInputLabel: Início
 
     # The label of the "end" field input in editing mode
-    endFieldInputLabel: End
+    endFieldInputLabel: Fim
 
     # The label of the "completionRatio" field input in editing mode
-    completionRatioFieldInputLabel: Progress
+    completionRatioFieldInputLabel: Progresso
 
     # The content of the delete task confirmation dialog
-    confirmationDialogContent: Are you sure you want to delete this task?
+    confirmationDialogContent: Tem certeza que deseja excluir esta tarefa?
 
     # The text of the day view in the ViewSelector component
-    dayViewText: Day
+    dayViewText: Dia
 
     # The text of the week view in the ViewSelector component
-    weekViewText: Week
+    weekViewText: Semana
 
     # The text of the month view in the ViewSelector component
-    monthViewText: Month
+    monthViewText: Mês
 
     # The text of the year view in the ViewSelector component
-    yearViewText: Year
+    yearViewText: Ano
 
     # The label visible in the Grid when there are no records
-    noRecords: No records available.
+    noRecords: Nenhum registro disponível.
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtro
 
     # The text of the "equal" filter operator
-    filterEqOperator: Is equal to
+    filterEqOperator: É igual a
 
     # The text of the "not equal" filter operator
-    filterNotEqOperator: Is not equal to
+    filterNotEqOperator: Não é igual a
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Is null
+    filterIsNullOperator: É nulo
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: Is not null
+    filterIsNotNullOperator: Não é nulo
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: Is empty
+    filterIsEmptyOperator: Está vazio
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: Is not empty
+    filterIsNotEmptyOperator: Não está vazio
 
     # The text of the "starts with" filter operator
-    filterStartsWithOperator: Starts with
+    filterStartsWithOperator: Começa com
 
     # The text of the "contains" filter operator
-    filterContainsOperator: Contains
+    filterContainsOperator: Contém
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: Does not contain
+    filterNotContainsOperator: Não contém
 
     # The text of the "ends with" filter operator
-    filterEndsWithOperator: Ends with
+    filterEndsWithOperator: Termina com
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: Is greater than or equal to
+    filterGteOperator: É maior ou igual a
 
     # The text of the "greater than" filter operator
-    filterGtOperator: Is greater than
+    filterGtOperator: É maior que
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: Is less than or equal to
+    filterLteOperator: É menor ou igual a
 
     # The text of the "less than" filter operator
-    filterLtOperator: Is less than
+    filterLtOperator: É menor que
 
     # The text of the "Is true" filter option
-    filterIsTrue: is true
+    filterIsTrue: é verdadeiro
 
     # The text of the "Is false" filter option
-    filterIsFalse: is false
+    filterIsFalse: é falso
 
     # The text of the (All) boolean filter option
-    filterBooleanAll: (All)
+    filterBooleanAll: (Todos)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: Is after or equal to
+    filterAfterOrEqualOperator: É depois ou igual a
 
     # The text of the after date filter operator
-    filterAfterOperator: Is after
+    filterAfterOperator: É depois
 
     # The text of the before date filter operator
-    filterBeforeOperator: Is before
+    filterBeforeOperator: É antes
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: Is before or equal to
+    filterBeforeOrEqualOperator: É antes ou igual a
 
     # The text of the "filter button"
-    filterFilterButton: Filter
+    filterFilterButton: Filtrar
 
     # The text of the "clear filter button"
-    filterClearButton: Clear
+    filterClearButton: Limpar
 
     # The text of the "And" filter logic
-    filterAndLogic: And
+    filterAndLogic: E
 
     # The text of the "Or" filter logic
-    filterOrLogic: Or
+    filterOrLogic: Ou
 
     # The loading text
-    loading: Loading
+    loading: Carregando
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Menu da coluna
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Colunas
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Bloquear
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Desbloquear
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Classificar em ordem crescente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Classificar em ordem decrescente
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Aplicar
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Redefinir
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Classificável
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Classificado em ordem crescente
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Classificado em ordem decrescente
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Não classificado
 
     # The text shown in the task tooltip before the task start date
-    tooltipStartDateText: Start
+    tooltipStartDateText: Início
 
     # The text shown in the task tooltip before the task start date
-    tooltipEndDateText: End
+    tooltipEndDateText: Fim

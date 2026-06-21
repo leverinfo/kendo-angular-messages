@@ -31,10 +31,10 @@ kendo:
     pagerItemsPerPage: itens por página
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Número da página
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtro
 
     # The text of the "equal" filter operator
     filterEqOperator: É igual a
@@ -46,13 +46,13 @@ kendo:
     filterIsNullOperator: É nulo
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: É não nulo
+    filterIsNotNullOperator: Não é nulo
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: É vazio
+    filterIsEmptyOperator: Está vazio
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: É não vazio
+    filterIsNotEmptyOperator: Não está vazio
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: Começa com
@@ -67,19 +67,19 @@ kendo:
     filterEndsWithOperator: Termina com
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: É maior que ou igual a
+    filterGteOperator: É maior ou igual a
 
     # The text of the "greater than" filter operator
     filterGtOperator: É maior que
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: É menor que ou igual a
+    filterLteOperator: É menor ou igual a
 
     # The text of the "less than" filter operator
-    filterLtOperator: É menor que ou igual a
+    filterLtOperator: É menor que
 
     # The text of the "Is true" filter option
-    filterIsTrue: É verdade
+    filterIsTrue: É verdadeiro
 
     # The text of the "Is false" filter option
     filterIsFalse: É falso
@@ -88,16 +88,16 @@ kendo:
     filterBooleanAll: (Todos)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: É posterior ou igual a
+    filterAfterOrEqualOperator: É depois ou igual a
 
     # The text of the after date filter operator
-    filterAfterOperator: É posterior a
+    filterAfterOperator: É depois de
 
     # The text of the before date filter operator
-    filterBeforeOperator: É anterior a
+    filterBeforeOperator: É antes de
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: É anterior ou igual a
+    filterBeforeOrEqualOperator: É antes ou igual a
 
     # The text of the "filter button"
     filterFilterButton: Filtrar
@@ -112,7 +112,7 @@ kendo:
     filterOrLogic: Ou
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Mostrar/Ocultar calendário
 
     # The text of the Today button of the Date filter.
     filterDateToday: Hoje
@@ -124,319 +124,355 @@ kendo:
     filterNumericIncrement: Aumentar valor
 
     # The loading text
-    loading: Loading
+    loading: Carregando
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Colunas
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Bloquear
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Desbloquear
 
     # The text shown in the column menu for the stick item
-    stick: Stick
+    stick: Fixar
 
     # The text shown in the column menu for the unstick item
-    unstick: Unstick
+    unstick: Desfixar
 
     # The text shown in the column menu for the set column position item
-    setColumnPosition: Set Column Position
+    setColumnPosition: Definir posição da coluna
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Classificar em ordem crescente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Classificar em ordem decrescente
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Aplicar
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Redefinir
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Classificável
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Classificado em ordem crescente
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Classificado em ordem decrescente
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Não classificado
 
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} Filter'
+    filterInputLabel: 'Filtro de {columnName}'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: 'Menu de filtro de {columnName}'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: 'Operadores de filtro de {columnName}'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: 'Lógica de filtro de {columnName}'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: 'Menu da coluna {columnName}'
 
     # The labels of the checkbox column checkboxes
-    selectionCheckboxLabel: Select Row
+    selectionCheckboxLabel: Selecionar linha
 
     # The label of the checkbox column select all checkbox
-    selectAllCheckboxLabel: Select All Rows
+    selectAllCheckboxLabel: Selecionar todas as linhas
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Navegação de página, página {currentPage} de {totalPages}'
 
     # The Grid aria-label
-    gridLabel: Data table
+    gridLabel: Tabela de dados
 
     # The text of the title and aria-label attributes applied to the collapse icon of group rows.
-    groupCollapse: Collapse Group
+    groupCollapse: Recolher grupo
 
     # The text of the title and aria-label attributes applied to the expand icon of group rows.
-    groupExpand: Expand Group
+    groupExpand: Expandir grupo
 
     # The title of the collapse icon of detail rows.
-    detailCollapse: Collapse Details
+    detailCollapse: Recolher detalhes
 
     # The title of the expand icon of detail rows.
-    detailExpand: Expand Details
-    
+    detailExpand: Expandir detalhes
+
     # The text shown in the column menu for the autosize this column item
-    autosizeThisColumn: Autosize This Column
-        
+    autosizeThisColumn: Ajustar largura desta coluna
+
     # The text shown in the column menu for the autosize all columns item
-    autosizeAllColumns: Autosize All Columns
-    
+    autosizeAllColumns: Ajustar largura de todas as colunas
+
     # The aria-label and title of the page select element in Grid pager
-    pagerSelectPage: Select page
+    pagerSelectPage: Selecionar página
 
     # The label for the Grid top toolbar
-    topToolbarLabel: Top toolbar
+    topToolbarLabel: Barra de ferramentas superior
 
     # The label for the Grid bottom toolbar
-    bottomToolbarLabel: Bottom toolbar
+    bottomToolbarLabel: Barra de ferramentas inferior
 
     # The label for the Grid group panel toolbar
-    groupPanelLabel: Group panel
+    groupPanelLabel: Painel de agrupamento
 
     # The label for the Grid drag row handle.
-    dragRowHandleLabel: Drag row
+    dragRowHandleLabel: Arrastar linha
 
     # The label for the select row checkbox.
-    selectRowCheckboxLabel: Select row
+    selectRowCheckboxLabel: Selecionar linha
 
     # The label for the select all rows checkbox.
-    selectAllRowsCheckboxLabel: Select all rows
+    selectAllRowsCheckboxLabel: Selecionar todas as linhas
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Operadores de célula de filtro para {columnName}'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Célula de filtro booleano para {columnName}'
 
     # The title for the column menu Filter tab.
-    columnMenuFilterTabTitle: Filter
+    columnMenuFilterTabTitle: Filtro
 
     # The title for the column menu General tab.
-    columnMenuGeneralTabTitle: General
-    
+    columnMenuGeneralTabTitle: Geral
+
     # The title for the column menu Columns tab.
-    columnMenuColumnsTabTitle: Columns
+    columnMenuColumnsTabTitle: Colunas
 
     # The text for the Group pane Chip Menu Move as previous item
-    groupChipMenuPrevious: Move as previous
+    groupChipMenuPrevious: Mover como item anterior
 
     # The text for the Group pane Chip Menu Move as next item
-    groupChipMenuNext: Move as next
+    groupChipMenuNext: Mover como próximo item
 
     # The text of the aria-label attribute applied to the input element for entering the page number
-    pagerInputLabel: Type a page number
+    pagerInputLabel: Digite o número da página
 
     # The default text of a form validation error when using external editing
-    formValidationErrorText: 'The {fieldName} field has {errorName} validation error'
+    formValidationErrorText: 'O campo {fieldName} possui erro de validação {errorName}'
 
     # The title of the remove item confirmation Dialog
-    removeConfirmationDialogTitle: Please confirm
+    removeConfirmationDialogTitle: Por favor, confirme
 
     # The title of the remove item confirmation Dialog
-    removeConfirmationDialogContent: Are you sure you want to delete this item?
+    removeConfirmationDialogContent: Tem certeza que deseja excluir este item?
 
     # The text of the remove item confirmation Dialog confirm action button
-    removeConfirmationDialogConfirmText: Yes
+    removeConfirmationDialogConfirmText: Sim
 
     # The text of the remove item confirmation Dialog reject action button
-    removeConfirmationDialogRejectText: No
+    removeConfirmationDialogRejectText: Não
 
     # The title of the built-in external editing form container when editing an item
-    externalEditingTitle: Edit
+    externalEditingTitle: Editar
 
     # The text of the external editing form Save button
-    externalEditingSaveText: Save
+    externalEditingSaveText: Salvar
 
     # The text of the external editing form Cancel button
-    externalEditingCancelText: Cancel
+    externalEditingCancelText: Cancelar
 
     # The text of the clear sort button located in the Sort Toolbar Tool and adaptive Sort Toolbar Tool
-    sortClearButton: Clear sorting
+    sortClearButton: Limpar ordenação
 
     # The title of the Close button of the ActionSheet that is rendered instead of the Popup when using small screen devices in adaptive mode
-    adaptiveCloseButtonTitle: Close
+    adaptiveCloseButtonTitle: Fechar
 
     # The title of the Back button of the ActionSheet that is rendered instead of the Popup when using small screen devices in adaptive mode
-    adaptiveBackButtonTitle: Back
+    adaptiveBackButtonTitle: Voltar
 
     # The text of the clear all filters button located in the Filter Toolbar Tool and adaptive Filter Toolbar Tool
-    filterClearAllButton: Clear all filters
+    filterClearAllButton: Limpar todos os filtros
 
     # The text of the done sort button
-    sortDoneButton: Done
+    sortDoneButton: Concluído
 
     # The subtitle for the adaptive Grid Column Chooser and Column Chooser toolbar tool
-    columnsSubtitle: Selected fields are visible
+    columnsSubtitle: Campos selecionados estão visíveis
 
     # The title that is displayed in the adaptive Filter Toolbar Tool and Filter Menu
-    adaptiveFilterTitle: Filter by
+    adaptiveFilterTitle: Filtrar por
 
     # The title that is displayed in the Operators Action Sheet
-    adaptiveFilterOperatorsTitle: Operators
+    adaptiveFilterOperatorsTitle: Operadores
 
     # The title that is displayed in the adaptive Sort Toolbar Tool
-    adaptiveSortTitle: Sort by
+    adaptiveSortTitle: Ordenar por
 
     # The title of the built-in external editing form container when adding a new item
-    externalEditingAddTitle: Add
+    externalEditingAddTitle: Adicionar
 
     # The title that is displayed in the adaptive Group Toolbar Tool
-    adaptiveGroupTitle: Group by
+    adaptiveGroupTitle: Agrupar por
 
     # The text of the Clear grouping button in the Group Toolbar Tool and adaptive Group Toolbar Tool.
-    groupClearButton: Clear grouping
+    groupClearButton: Limpar agrupamento
 
     # The button text of the Group toolbar tool.
-    groupToolbarToolText: Group
+    groupToolbarToolText: Agrupar
 
     # The text of the Done group button in the adaptive Group Toolbar Tool.
-    groupDoneButton: Done
+    groupDoneButton: Concluído
 
     # The text of the AI Assistant toolbar tool
-    aiAssistantToolbarToolText: AI Assistant
+    aiAssistantToolbarToolText: Assistente IA
 
     # The text of the AI Assistant Window title
-    aiAssistantWindowTitle: AI Assistant
+    aiAssistantWindowTitle: Assistente IA
 
     # The text of the AI Assistant Apply button
-    aiAssistantApplyButtonText: Apply
+    aiAssistantApplyButtonText: Aplicar
 
     # The title of the AI Assistant Window close button
-    aiAssistantWindowCloseTitle: Close
+    aiAssistantWindowCloseTitle: Fechar
 
     # The title of the AI Assistant Window maximize button
-    aiAssistantWindowMaximizeTitle: Maximize
+    aiAssistantWindowMaximizeTitle: Maximizar
 
     # The title of the AI Assistant Window minimize button
     aiAssistantWindowMinimizeTitle: Minimize
 
     # The title of the AI Assistant Window restore button
-    aiAssistantWindowRestoreTitle: Restore
+    aiAssistantWindowRestoreTitle: Restaurar
 
     # The title of the AI Assistant Prompt Output Card
-    aiAssistantOutputCardTitle: Generated with AI
+    aiAssistantOutputCardTitle: Gerado com IA
 
     # The success message displayed in the AI Assistant Prompt Output Card's body
-    aiAssistantOutputCardBodyContent: "Operation is successful. Data is:"
+    aiAssistantOutputCardBodyContent: "Operação realizada com sucesso. Dados:"
 
     # The placeholder text for the multi-checkbox filter search input
-    multiCheckboxFilterSearchPlaceholder: Search...
+    multiCheckboxFilterSearchPlaceholder: Buscar...
 
     # The label for the multi-checkbox filter select all option
-    multiCheckboxFilterSelectAllLabel: Select all
+    multiCheckboxFilterSelectAllLabel: Selecionar tudo
 
     # The text for the multi-checkbox filter selected items count
-    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} selected items'
-    
+    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} itens selecionados'
+
     # The message shown when AI selection requires the Grid selectable option
-    aiAssistantSelectionNotEnabled: "Selection can be applied only when the Grid selectable option is enabled."
+    aiAssistantSelectionNotEnabled: "A seleção pode ser aplicada apenas quando a opção selecionável do Grid está habilitada."
 
     # The message shown when AI selection requires row selection mode
-    aiAssistantSelectionRowModeRequired: "Selection can be applied only when row selection mode is enabled."
+    aiAssistantSelectionRowModeRequired: "A seleção pode ser aplicada apenas quando o modo de seleção de linha está habilitado."
 
     # The message shown when AI selection requires cell selection mode
-    aiAssistantSelectionCellModeRequired: "Selection can be applied only when cell selection mode is enabled."
+    aiAssistantSelectionCellModeRequired: "A seleção pode ser aplicada apenas quando o modo de seleção de célula está habilitado."
 
     # The text displayed in the Column Chooser for the number of selected columns
-    columnChooserSelectedColumnsCount: '{selectedColumnsCount} Selected items'
+    columnChooserSelectedColumnsCount: '{selectedColumnsCount} itens selecionados'
 
     # The text for the Select all checkbox in the Column Chooser
-    columnChooserSelectAll: "Select all"
+    columnChooserSelectAll: "Selecionar tudo"
 
     # The text for the Grid Excel export toolbar tool
-    excelExportToolbarToolText: "Excel Export"
+    excelExportToolbarToolText: "Exportar para Excel"
 
     # The text for the Grid CSV export toolbar tool
-    csvExportToolbarToolText: "CSV Export"
+    csvExportToolbarToolText: "Exportar para CSV"
 
     # The text for the Grid PDF export toolbar tool
-    pdfExportToolbarToolText: "PDF Export"
-    
+    pdfExportToolbarToolText: "Exportar para PDF"
+
     # The text for the aria-label of the search input in the Column Chooser
-    columnChooserSearchLabel: "Search"
+    columnChooserSearchLabel: "Buscar"
 
     # The aria-label for the Speech to Text button of the SmartBox tool in AI Assistant mode
-    smartBoxSpeechToTextButton: Voice input
+    smartBoxSpeechToTextButton: Entrada por voz
 
     # The aria-label for the Submit button of the SmartBox tool in AI Assistant mode
-    smartBoxSubmitPromptButton: Submit prompt
+    smartBoxSubmitPromptButton: Enviar comando
 
     # The placeholder text for the SmartBox tool Search mode input
-    smartBoxSearchPlaceholder: Search...
+    smartBoxSearchPlaceholder: Procurar...
 
     # The placeholder text for the SmartBox tool Semantic Search mode input
-    smartBoxSemanticSearchPlaceholder: Semantic Search
+    smartBoxSemanticSearchPlaceholder: Busca semântica
 
     # The placeholder text for the SmartBox tool AI Assistant mode input
-    smartBoxAIAssistantPlaceholder: Sort, Filter, or group with AI
+    smartBoxAIAssistantPlaceholder: Ordenar, filtrar, ou agrupar com IA
 
     # The text for the suggested prompts section in the SmartBox tool AI Assistant mode
-    smartBoxSuggestedPrompts: Suggested prompts
+    smartBoxSuggestedPrompts: Comandos sugeridos
 
     # The text displayed when there are no previous searches in the SmartBox tool
-    smartBoxNoPreviousSearches: No previous searches
+    smartBoxNoPreviousSearches: Sem buscas anteriores
 
     # The text displayed when there are no previous prompts in the SmartBox tool
-    smartBoxNoPreviousPrompts: No previous prompts
+    smartBoxNoPreviousPrompts: Sem comandos anteriores
 
     # The text displayed when there is previous search history in the SmartBox tool
-    smartBoxPreviouslySearched: Previously Searched
+    smartBoxPreviouslySearched: Buscado Anteriormente
 
     # The Search mode text displayed in the SmartBox tool search modes list
-    searchModeListItemText: Search
+    searchModeListItemText: Buscar
 
     # The text displayed when there is previous ask history in the SmartBox tool
-    smartBoxPreviouslyAsked: Previously Asked
+    smartBoxPreviouslyAsked: Perguntado Anteriormente
 
     # The Search mode description displayed in the SmartBox tool search modes list
-    searchModeListItemDescription: Looks for exact word matches accross your data.
+    searchModeListItemDescription: Procura correspondências exatas de palavras em seus dados.
 
     # The Semantic Search mode text displayed in the SmartBox tool search modes list
-    semanticSearchModeListItemText: Semantic Search
+    semanticSearchModeListItemText: Busca Semântica
 
     # The Semantic Search mode description displayed in the SmartBox tool search modes list
-    semanticSearchModeListItemDescription: Understands context to surface the most relevant results.
+    semanticSearchModeListItemDescription: Compreende o contexto para apresentar os resultados mais relevantes.
 
     # The text for the Search mode button in the SmartBox tool popup
-    smartBoxSearchModePopupButton: Search
+    smartBoxSearchModePopupButton: Buscar
 
     # The text for the Semantic Search mode button in the SmartBox tool popup
-    smartBoxSemanticSearchModePopupButton: Search
+    smartBoxSemanticSearchModePopupButton: Buscar
 
     # The text for the AI Assistant mode button in the SmartBox tool popup
-    smartBoxAIAssistantModePopupButton: AI Assistant
+    smartBoxAIAssistantModePopupButton: Assistente de IA
+
+    # The label for the detail-expand column header
+    detailColumnHeaderLabel: Alternar detalhes
+
+    # The label for the row-reorder column header
+    dragColumnHeaderLabel: Reordenar linha
+
+    # The label for the checkbox-selection column header
+    checkboxColumnHeaderLabel: Seleção
+
+    # The label for the command column header
+    commandColumnHeaderLabel: Comando
+
+    # The label for the pinned top rows region
+    pinnedTopRowsLabel: Linhas fixadas no topo
+
+    # The label for the pinned bottom rows region
+    pinnedBottomRowsLabel: Linhas fixadas na base
+
+    # The text for the "pin row to top" item in the row pin menu
+    pinMenuPinToTopText: Fixar no topo
+
+    # The text for the "pin row to bottom" item in the row pin menu
+    pinMenuPinToBottomText: Fixar na base
+
+    # The text for the "unpin" item in the row pin menu
+    pinMenuUnpinText: Desafixar
+
+    # The label for the pin column header
+    pinColumnHeaderLabel: Ações
+
+    # The label for the pin-row action button
+    rowPinLabel: Fixar linha
+
+    # The label for the unpin-row action button
+    rowUnpinLabel: Desafixar linha
 
     # The screen-reader-only label for the detail expand/collapse column header
     detailColumnHeaderLabel: Details Toggle

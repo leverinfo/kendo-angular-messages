@@ -1,18 +1,19 @@
-
+kendo:
+  promptbox:
     # Sets the File Select button title.
-    fileSelectButtonTitle: Select attachments
+    fileSelectButtonTitle: Selecionar anexos
 
     # Sets the Action button title.
-    actionButtonTitle: Send prompt
+    actionButtonTitle: Enviar prompt
 
     # Sets the Stop Generating button title.
-    stopGeneratingTitle: Stop generating
+    stopGeneratingTitle: Parar geração
 
     # Sets the Speech to Text button title.
-    speechToTextButtonTitle: Dictate
+    speechToTextButtonTitle: Ditar
 
     # Sets the Remove file button title.
-    removeFileTitle: Remove file
+    removeFileTitle: Remover arquivo
 
     # Sets the aria-label for the input/textarea element.
-    messageBoxTitle: Message
+    messageBoxTitle: Mensagem

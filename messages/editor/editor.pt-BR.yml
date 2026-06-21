@@ -1,166 +1,166 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centralizar texto
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Justificar
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Alinhar à esquerda
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Alinhar à direita
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Cor de fundo
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Negrito
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Limpar formatação
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Inserir link
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Aplicar
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Cancelar
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Inserir
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Atualizar
 
     # The caption for the file text in the insertFile dialog.
-    fileText: Text
+    fileText: Texto
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Título
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Endereço web
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Selecionar família da fonte
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Selecionar tamanho da fonte
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Cor do texto
 
     # The title of the tool that lets users choose block formats.
-    format: Format
+    format: Formato
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Texto alternativo
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Altura (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Endereço web
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Largura (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Recuar
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Inserir arquivo
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Inserir imagem
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Inserir lista ordenada
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Inserir lista não ordenada
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Itálico
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Abrir link em nova janela
 
     # The caption for the link text in the createLink dialog.
-    linkText: Text
+    linkText: Texto
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Título
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Endereço web
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Recuar
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Refazer
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Tachado
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Subscrito
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Sobrescrito
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Sublinhado
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Remover link
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Desfazer
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Ver código-fonte
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Inserir tabela
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Adicionar coluna antes
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Adicionar coluna depois
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Adicionar linha antes
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Adicionar linha depois
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Excluir coluna
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Excluir linha
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Excluir tabela
 
     # The title of the tool that selects the editor's content.
-    selectAll: Select All
+    selectAll: Selecionar tudo
 
     # The title of the tool that prints the editor's content.
-    print: Print
+    print: Imprimir
 
     # The title of the tool that merges the currently selected cells.
-    mergeCells: Merge cells
+    mergeCells: Mesclar células
 
     # The title of the tool that splits the currently selected cell.
-    splitCell: Split cell
+    splitCell: Dividir célula
 
     # The caption for the hint in the insert table tool.
-    insertTableHint: 'Create a {rows} {x} {columns} table'
+    insertTableHint: 'Criar uma tabela de {rows} {x} {columns}'

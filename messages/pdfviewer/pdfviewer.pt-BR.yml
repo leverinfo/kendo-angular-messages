@@ -1,115 +1,115 @@
 kendo:
   pdfviewer:
     # The label for the first page button in the Pager.
-    pagerFirstPage: Go to the first page
+    pagerFirstPage: Ir para a primeira página
 
     # The label for the previous page button in the Pager.
-    pagerPreviousPage: Go to the previous page
+    pagerPreviousPage: Ir para a página anterior
 
     # The label for the next page button in the Pager.
-    pagerNextPage: Go to the next page
+    pagerNextPage: Ir para a próxima página
 
     # The label for the last page button in the Pager.
-    pagerLastPage: Go to the last page
+    pagerLastPage: Ir para a última página
 
     # The text before the current page number in the Pager.
-    pagerPage: Page
+    pagerPage: Página
 
     # The text before the total pages number in the Pager.
-    pagerOf: of
+    pagerOf: de
 
     # The title of the pager input element.
-    pagerInputTitle: Page Number
+    pagerInputTitle: Número da página
 
     # The text of the aria-label attribute applied to the pager input element.
-    pagerInputLabel: Type a page number
+    pagerInputLabel: Digite um número de página
 
     # The ZoomIn tool title and label.
-    zoomInTitle: Zoom in
+    zoomInTitle: Aproximar
 
     # The ZoomOut tool title and label.
-    zoomOutTitle: Zoom out
+    zoomOutTitle: Afastar
 
     # The Selection tool title and label.
-    selectionTitle: Enable selection
+    selectionTitle: Ativar seleção
 
     # The Panning tool title and label.
-    panningTitle: Enable panning
+    panningTitle: Ativar navegação
 
     # The Search tool title and label.
-    searchTitle: Search
+    searchTitle: Buscar
 
     # The text for the search input placeholder.
-    searchInputPlaceholder: Search
+    searchInputPlaceholder: Buscar
 
     # The text before the total number of matches in the Search tool.
-    searchMatchesOf: of
+    searchMatchesOf: de
 
     # The title of the Search tool previous match button.
-    searchPreviousMatchTitle: Previous match
+    searchPreviousMatchTitle: Correspondência anterior
 
     # The title of the Search tool next match button.
-    searchNextMatchTitle: Next match
+    searchNextMatchTitle: Próxima correspondência
 
     # The title of the Search tool close button.
-    searchCloseTitle: Close
+    searchCloseTitle: Fechar
 
     # The Open tool title and label.
-    openTitle: Open
+    openTitle: Abrir
 
     # The Download tool title and label.
-    downloadTitle: Download
+    downloadTitle: Baixar
 
     # The Print tool title and label.
-    printTitle: Print
+    printTitle: Imprimir
 
     # The text for the zoom level chooser Fit to page option.
-    fitToPage: Fit to page
+    fitToPage: Ajustar à página
 
     # The text for the zoom level chooser Fit to width option.
-    fitToWidth: Fit to width
+    fitToWidth: Ajustar à largura
 
     # The title of the Search tool match case button.
-    searchMatchCaseTitle: Match case
+    searchMatchCaseTitle: Diferenciar maiúsculas/minúsculas
 
     # The text of the Zoom tool input placeholder.
-    zoomInputPlaceholder: Choose zoom level
+    zoomInputPlaceholder: Escolha o nível de zoom
 
     # The Annotations tool title and label.
-    annotationsTitle: Annotations
+    annotationsTitle: Anotações
 
     # The annotation editor tool title and label.
-    annotationEditorTitle: Annotation editor
+    annotationEditorTitle: Editor de anotações
 
     # The delete annotation tool title and label.
-    deleteAnnotationTitle: Delete annotation
+    deleteAnnotationTitle: Excluir anotação
 
     # The highlight annotation tool title and label.
-    highlightAnnotationTitle: Highlight
+    highlightAnnotationTitle: Destacar
 
     # The free text annotation tool title and label.
-    freeTextAnnotationTitle: Free text
+    freeTextAnnotationTitle: Texto livre
 
     # The close annotations toolbar tool title and label.
-    closeAnnotationsToolbarTitle: Close
+    closeAnnotationsToolbarTitle: Fechar
 
     # The delete annotation confirmation dialog title.
-    deleteAnnotationConfirmationDialogTitle: Delete annotation
+    deleteAnnotationConfirmationDialogTitle: Excluir anotação
 
     # The delete annotation confirmation dialog content.
-    deleteAnnotationConfirmationDialogContent: Are you sure you want to delete this annotation?
+    deleteAnnotationConfirmationDialogContent: Tem certeza que deseja excluir esta anotação?
 
     # The delete annotation confirmation dialog confirm button text.
-    deleteAnnotationConfirmationDialogConfirmText: Delete
+    deleteAnnotationConfirmationDialogConfirmText: Excluir
 
     # The delete annotation confirmation dialog reject button text.
-    deleteAnnotationConfirmationDialogRejectText: Cancel
+    deleteAnnotationConfirmationDialogRejectText: Cancelar
 
     # The annotation editor font size section title.
-    annotationEditorFontSizeTitle: Font Size
+    annotationEditorFontSizeTitle: Tamanho da fonte
 
      # The annotation editor color section title.
-    annotationEditorColorTitle: Color
+    annotationEditorColorTitle: Cor
 
     # The text for the FileSelect drop zone hint when no file is being dragged.
     blankPageDropFilesHere: Drag and drop files here to upload

@@ -1,64 +1,64 @@
 kendo:
   datetimepicker:
     # The Date tab text in the datetimepicker popup header
-    dateTab: Date
+    dateTab: Data
 
     # The label for the Date tab in the datetimepicker popup header
-    dateTabLabel: Date tab
+    dateTabLabel: Data
 
     # The Time tab text in the datetimepicker popup header
-    timeTab: Time
+    timeTab: Hora
 
     # The label for the Time tab in the datetimepicker popup header
-    timeTabLabel: Time tab
+    timeTabLabel: Hora
 
     # The label for the toggle button in the datetimepicker component
-    toggle: Toggle popup
+    toggle: Alternar calendário
 
     # The Accept button text in the datetimepicker component
-    accept: Set
+    accept: Definir
 
     # The label for the Accept button in the datetimepicker component
-    acceptLabel: Set
+    acceptLabel: Definir
 
     # The Cancel button text in the datetimepicker component
-    cancel: Cancel
+    cancel: Cancelar
 
     # The label for the Cancel button in the datetimepicker component
-    cancelLabel: Cancel
+    cancelLabel: Cancelar
 
     # The Now button text in the timepicker component
-    now: NOW
+    now: Agora
 
     # The label for the Now button in the timepicker component
-    nowLabel: Select now
+    nowLabel: Agora
 
     # The label for the today button in the calendar header
-    today: TODAY
+    today: Hoje
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Ir para a visualização anterior
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Ir para a próxima visualização
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Hora
 
     # The label for the minute part in the timepicker component
-    minute: Minute
+    minute: Minuto
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Segundo
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Milissegundo
 
     # The label for the dayperiod part in the timepicker component
-    dayperiod: Dayperiod
+    dayperiod: Período do dia
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Ir para a visualização superior
 
     # The title for the **Clear** button in the DateTimePicker
-    clearTitle: Clear
+    clearTitle: Limpar

@@ -1,9 +1,10 @@
 kendo:
   toolbar:
     # The title of the "more tools" button in a responsive ToolBar
-    moreToolsTitle: More tools
+    moreToolsTitle: Mais ferramentas
+
     # The title for the **Previous Tool** button when the Toolbar is scrollable.
-    previousToolButton: Scroll left
+    previousToolButton: Rolagem para a esquerda
 
     # The title for the **Next Tool** button when the Toolbar is scrollable.
-    nextToolButton: Scroll right
+    nextToolButton: Rolagem para a direita

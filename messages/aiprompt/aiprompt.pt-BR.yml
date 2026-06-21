@@ -1,28 +1,28 @@
 kendo:
   aiprompt:
     # The Toolbar button text for the Prompt view
-    promptView: Ask AI
+    promptView: Perguntar à IA
 
     # The Toolbar button text for the Output view
-    outputView: Output
+    outputView: Resultado
 
     # The text for the Generate button in the Prompt view
-    generateOutput: Generate
+    generateOutput: Gerar
 
     # The placeholder text for the Prompt view textarea
-    promptPlaceholder: Ask or generate content with AI
+    promptPlaceholder: Pergunte ou gere conteúdo com IA
 
     # The Copy button text in each Output view card
-    copyOutput: Copy
+    copyOutput: Copiar
 
     # The Retry button text in each Output view card
-    retryGeneration: Retry
+    retryGeneration: Tentar novamente
 
     # The title of each Output view card
-    outputTitle: Generated with AI
+    outputTitle: Gerado com IA
 
     # The title of each Output view retry card
-    outputRetryTitle: Generated with AI
+    outputRetryTitle: Gerado com IA
 
     # The title of the Prompt suggestions button
-    promptSuggestions: Prompt suggestions
+    promptSuggestions: Sugestões de prompt
