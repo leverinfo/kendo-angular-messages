@@ -12,6 +12,9 @@ kendo:
     # The title of the parent view button in the calendar header
     parentViewButtonTitle: Ir para a visualização superior
 
+    # The label of the week number column in the Calendar
+    weekNumberLabel: Número da semana
+
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Hoje

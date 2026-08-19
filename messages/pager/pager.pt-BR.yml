@@ -32,3 +32,6 @@ kendo:
 
     # The text of the aria-label attribute applied to the numeric input element.
     inputLabel: Digite o número da página
+
+    # The value of the aria-label attribute of the Pager
+    ariaLabel: 'Navegação de página, página {currentPage} de {totalPages}'

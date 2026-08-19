@@ -1,0 +1,19 @@
+kendo:
+  timeselector:
+    # The accessible label for the timeselector component
+    timeSelectorLabel: Seletor de hora
+
+    # The label for the Hour column in the timeselector component
+    hour: Hora
+
+    # The label for the Minute column in the timeselector component
+    minute: Minuto
+
+    # The label for the Second column in the timeselector component
+    second: Segundo
+
+    # The label for the Millisecond column in the timeselector component
+    millisecond: Milissegundo
+
+    # The label for the AM/PM column in the timeselector component
+    dayperiod: AM/PM

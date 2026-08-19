@@ -17,3 +17,6 @@ kendo:
 
     # Sets the aria-label for the input/textarea element.
     messageBoxTitle: Mensagem
+
+    # Sets the aria-label for the attached files list.
+    attachedFilesLabel: Arquivos anexados

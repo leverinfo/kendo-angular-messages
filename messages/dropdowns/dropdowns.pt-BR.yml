@@ -9,6 +9,9 @@ kendo:
     # The text of the popup label
     popupLabel: Lista de opções
 
+    # The accessible label of the list of suggestions
+    listboxLabel: Sugestões
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Nenhum dado encontrado
@@ -21,6 +24,9 @@ kendo:
 
     # The text of the popup label
     popupLabel: Lista de opções
+
+    # The accessible label of the listbox that contains the list of options
+    listboxLabel: Opções
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -37,6 +43,9 @@ kendo:
 
     # The text of the popup filter input aria label
     filterInputLabel: Filtrar
+
+    # The accessible label of the listbox that contains the list of options
+    listboxLabel: Opções
 
   dropdowntree:
     # The text displayed in the popup when there are no items
@@ -79,6 +88,12 @@ kendo:
     # The text displayed for the check-all checkbox
     checkAllText: Marcar todos
 
+    # The text set as aria-label on the combobox input element
+    inputLabel: Selecionar itens
+
+    # The accessible label of the tag list element that contains the selected items
+    chipListLabel: lista de chips
+
   multicolumncombobox:
     # The text displayed in the popup when there are no items
     noDataText: Nenhum dado encontrado
@@ -88,6 +103,9 @@ kendo:
 
     # The text of the popup label
     popupLabel: Lista de opções
+
+    # The accessible label of the listbox that contains the list of options
+    listboxLabel: Opções
 
   multiselect:
     # The text displayed in the popup when there are no items
@@ -107,3 +125,12 @@ kendo:
 
     # The text displayed when the user types a custom value that is not in the list of options.
     useCustomValueText: Use "{customValue}"
+
+    # The accessible label of the listbox that contains the list of options
+    listboxLabel: Opções
+
+    # The accessible label of the tag list element that contains the selected items
+    chipListLabel: lista de chips
+
+    # The text of the Select All item in the popup
+    selectAllText: Selecionar todos

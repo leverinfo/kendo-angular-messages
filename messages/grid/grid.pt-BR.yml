@@ -473,3 +473,6 @@ kendo:
 
     # The screen-reader-only content for the command column header
     commandColumnHeaderLabel: Comando
+
+    # Sets the text for the group column's header when group mode is **singleColumn**.
+    groupsSingleColumnTitle: Grupos

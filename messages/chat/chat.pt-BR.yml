@@ -65,3 +65,9 @@ kendo:
 
     # The title of the button that unpins a pinned message
     unpinMessageTitle: Desfixar mensagem
+
+    # The aria-label for the attached files list
+    attachedFilesLabel: Arquivos anexados
+
+    # The aria-label for the button that resends a failed message
+    resendButtonTitle: Reenviar

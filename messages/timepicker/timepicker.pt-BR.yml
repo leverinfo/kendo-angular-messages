@@ -38,3 +38,6 @@ kendo:
 
     # The title for the **Clear** button in the TimePicker
     clearTitle: Limpar
+
+    # The accessible label for the time selector in the timepicker component
+    timeSelectorLabel: Seletor de hora
