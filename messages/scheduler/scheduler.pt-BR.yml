@@ -176,7 +176,7 @@ kendo:
     destroy: Excluir
 
     # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    editOccurrence: Editar ocorrência atual
+    editOccurrence: Alterar ocorrência atual
 
     # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Evento de dia inteiro
@@ -194,13 +194,13 @@ kendo:
     editorTitle: Evento
 
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
-    editRecurringConfirmation: Você deseja editar apenas esta ocorrência ou toda a série?
+    editRecurringConfirmation: Você deseja alterar apenas esta ocorrência ou toda a série?
 
     # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
-    editRecurringDialogTitle: Editar item recorrente
+    editRecurringDialogTitle: Alterar item recorrente
 
     # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
-    editSeries: Editar série
+    editSeries: Alterar série
 
     # The event header text displayed in the agenda view.
     eventHeader: Evento

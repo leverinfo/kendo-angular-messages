@@ -28,7 +28,7 @@ kendo:
     taskDeleteLabel: Excluir
 
     # The title of the task editing dialog
-    taskEditingDialogTitle: Editar tarefa
+    taskEditingDialogTitle: Alterar tarefa
 
     # The title of the task editing dialog close button
     taskEditingDialogCloseTitle: Fechar

@@ -274,7 +274,7 @@ kendo:
     removeConfirmationDialogRejectText: Não
 
     # The title of the built-in external editing form container when editing an item
-    externalEditingTitle: Editar
+    externalEditingTitle: Alterar
 
     # The text of the external editing form Save button
     externalEditingSaveText: Salvar
