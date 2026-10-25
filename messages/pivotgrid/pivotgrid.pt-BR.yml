@@ -7,10 +7,10 @@ kendo:
     fieldMenuFilterItemLabel: Filtro
 
     # The label of the filter input
-    filterInputLabel: 'Filtro de {fields}'
+    filterInputLabel: 'Filtro de [[fields]]'
 
     # The label of the filter operators DropDownList
-    filterOperatorsDropDownLabel: 'Operadores de filtro de {fields}'
+    filterOperatorsDropDownLabel: 'Operadores de filtro de [[fields]]'
 
     # The text of the "equal" filter operator
     filterEqOperator: É igual a
@@ -104,3 +104,6 @@ kendo:
 
     # The text content of the PivotGrid configurator fields TreeView Measures node
     configuratorMeasuresText: Measures
+
+    # The text of the PivotGrid configurator chip list aria-label
+    configuratorChipListLabel: lista de chips

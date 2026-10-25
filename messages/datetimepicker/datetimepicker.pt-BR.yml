@@ -63,8 +63,8 @@ kendo:
     # The title for the **Clear** button in the DateTimePicker
     clearTitle: Limpar
 
-    # The accessible label of the date and time selector container
+    # The label for the date and time selector in the datetimepicker component
     dateTimeSelectorLabel: Seletor de data e hora
 
-    # The accessible label of the time selector element
+    # The label for the time selector in the datetimepicker component
     timeSelectorLabel: Seletor de hora

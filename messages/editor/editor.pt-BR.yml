@@ -163,4 +163,4 @@ kendo:
     splitCell: Dividir célula
 
     # The caption for the hint in the insert table tool.
-    insertTableHint: 'Criar uma tabela de {rows} {x} {columns}'
+    insertTableHint: 'Criar uma tabela de [[rows]] [[x]] [[columns]]'

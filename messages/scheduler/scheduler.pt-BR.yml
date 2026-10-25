@@ -184,14 +184,11 @@ kendo:
     # The text similar to 'Description' displayed in the Scheduler event editor.
     editorEventDescription: Descrição
 
-    # The text similar to 'Use separate Start and End Time Zones' displayed in the Scheduler event editor.
-    editorEventSeparateTimeZones: Usar fuso-horário diferente para início e fim
-
     # The text similar to 'Time Zone' displayed in the Scheduler event editor.
     editorEventTimeZone: Fuso-horário
 
-    # The text similar to 'Event' displayed as title of the Scheduler event editor.
-    editorTitle: Evento
+    # The text similar to 'Edit event' displayed as title of the Scheduler event editor.
+    editorTitle: Alterar evento
 
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Você deseja alterar apenas esta ocorrência ou toda a série?
@@ -220,14 +217,14 @@ kendo:
     # The text similar to 'day(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyInterval: dia(s)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorDailyRepeatEvery: 'Repetir a cada:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: Repete a cada
 
     # The text similar to 'After' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndAfter: Após
 
-    # The text similar to 'End' displayed in the Scheduler recurrence editor.
-    recurrenceEditorEndLabel: Fim
+    # The text similar to 'Ends' displayed in the Scheduler recurrence editor.
+    recurrenceEditorEndLabel: Termina
 
     # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndNever: Nunca
@@ -238,20 +235,20 @@ kendo:
     # The text similar to 'On' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndOn: Em
 
-    # The text similar to 'Daily' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesDaily: Diariamente
+    # The text similar to 'Day' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Dia
 
-    # The text similar to 'Monthly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesMonthly: Mensalmente
+    # The text similar to 'Month' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Mês
 
     # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesNever: Nunca
 
-    # The text similar to 'Weekly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesWeekly: Semanalmente
+    # The text similar to 'Week' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Semana
 
-    # The text similar to 'Yearly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesYearly: Anualmente
+    # The text similar to 'Year' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Ano
 
     # The text similar to 'Day' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyDay: Dia
@@ -259,11 +256,11 @@ kendo:
     # The text similar to 'month(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyInterval: mês(es)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatEvery: 'Repetir a cada:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: Repete a cada
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatOn: 'Repetir em:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: Em
 
     # The text similar to 'First' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: primeiro
@@ -295,11 +292,11 @@ kendo:
     # The text similar to 'week(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: semana(s)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatEvery: 'Repetir a cada:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: Repete a cada
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatOn: 'Repetir em:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: Em
 
     # The text similar to 'year(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyInterval: ano(s)
@@ -307,11 +304,11 @@ kendo:
     # The text similar to 'of' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyOf: de
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatEvery: 'Repetir a cada:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: Repete a cada
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatOn: 'Repetir em:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: Em
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
     showFullDay: Dia inteiro
@@ -343,44 +340,29 @@ kendo:
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
     selectView: Selecionar visualização
 
-    # The 'Today' button text in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    # The 'Today' button text in the popup of the DatePickers in the Scheduler event editor.
     editorDateInputsToday: Hoje
 
-    #The title of the 'Toggle' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsToggle: Alternar popup
-
-    #The title of the 'Parent View' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The title of the 'Parent View' button in the popup of the DatePickers in the Scheduler event editor.
     editorDateInputsParentViewButton: Navegar para visão superior
 
-    #The text of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsNow: Agora
+    #The text of the 'Now' button in the popup header of the TimePickers in the Scheduler event editor.
+    editorDateInputsNow: AGORA
 
-    #The label of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Now' button in the popup header of the TimePickers in the Scheduler event editor.
     editorDateInputsNowLabel: Selecionar agora
 
-    #The text of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The text of the 'Set' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsAccept: Definir
 
-    #The label of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Set' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsAcceptLabel: Definir
 
-    #The text of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The text of the 'Cancel' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsCancel: Cancelar
 
-    #The label of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Cancel' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsCancelLabel: Cancelar
-
-    #The text of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsDateTab: Data
-
-    #The label of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsDateTabLabel: Aba de data
-
-    #The text of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsTimeTab: Hora
-
-    #The label of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsTimeTabLabel: Aba de hora
 
     #The title of the 'Increment' button of the NumericTextBoxes displayed in the Scheduler recurrence editor.
     recurrenceEditorNumericIncrement: Aumentar valor
@@ -405,3 +387,66 @@ kendo:
 
     # The screen-reader-only label for the resource group column header in the Agenda view".
     resourceColumnHeaderLabel: Resource
+
+    # The text of the overflow button in the month view of the Scheduler.
+    moreEvents: "Mais [[count]]"
+
+    # The aria-label for the start time TimePicker in the Scheduler event editor.
+    editorEventStartTime: Hora de início
+
+    # The aria-label for the end time TimePicker in the Scheduler event editor.
+    editorEventEndTime: Hora de término
+
+    # The text of the reset timezone button in the Scheduler event editor.
+    editorEventTimeZoneReset: Redefinir fuso-horário
+
+    # The placeholder text of the description textarea in the Scheduler event editor.
+    editorEventDescriptionPlaceholder: Adicionar descrição
+
+    # The separator text between start and end dates in the Scheduler event editor.
+    editorEventDateRangeSeparator: até
+
+    # The separator text between start date and time in the Scheduler event editor.
+    editorEventDateRangeStart: de
+
+    # The text of the recurrence button when no recurrence rule is set in the Scheduler event editor.
+    editorRecurrenceMakeRecurring: Tornar recorrente
+
+    # The text of the recurrence button when a recurrence rule exists in the Scheduler event editor.
+    editorRecurrenceEdit: Alterar recorrência
+
+    # The title of the recurrence dialog in the Scheduler event editor.
+    editorRecurrenceDialogTitle: Recorrência
+
+    # The text of the remove recurrence button in the Scheduler event editor.
+    editorRecurrenceRemove: Remover recorrência
+
+    # The title of the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationTitle: Remover recorrência
+
+    # The message of the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmation: Deseja remover a recorrência?
+
+    # The text of the 'No' button in the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationNo: Não
+
+    # The text of the 'Yes' button in the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationYes: Sim
+
+    #The title of the 'Toggle' button of the DatePickers in the Scheduler event editor.
+    editorDatePickersToggle: Alternar calendário
+
+    #The title of the 'Toggle' button of the TimePickers in the Scheduler event editor.
+    editorTimePickersToggle: Alternar lista de horários
+
+    # The text displayed as title of the Scheduler event editor for new events.
+    editorTitleNew: Novo evento
+
+    # The text of the new event button in the Scheduler toolbar.
+    newEvent: Novo evento
+
+    # The aria-label of the new event button in the Scheduler toolbar.
+    newEventLabel: Adicionar novo evento
+
+    # The aria-label of the Scheduler toolbar.
+    toolbar: Barra de ferramentas

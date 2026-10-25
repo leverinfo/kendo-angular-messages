@@ -29,7 +29,7 @@ kendo:
     listboxLabel: Opções
 
     # The text displayed when the user types a custom value that is not in the list of options.
-    useCustomValueText: Usar "{customValue}"
+    useCustomValueText: Usar "[[customValue]]"
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -127,13 +127,13 @@ kendo:
     cancelButton: Cancelar
 
     # The text displayed when the user types a custom value that is not in the list of options.
-    useCustomValueText: Usar "{customValue}"
+    useCustomValueText: Usar "[[customValue]]"
 
-    # The accessible label of the listbox that contains the list of options
-    listboxLabel: Opções
-
-    # The accessible label of the tag list element that contains the selected items
+    # The text of the chip list aria-label
     chipListLabel: lista de chips
+
+    # The text of the listbox label
+    listboxLabel: Opções
 
     # The text of the Select All item in the popup
     selectAllText: Selecionar todos

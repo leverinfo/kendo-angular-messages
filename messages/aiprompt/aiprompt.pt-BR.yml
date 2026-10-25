@@ -27,5 +27,8 @@ kendo:
     # The title of the Prompt suggestions button
     promptSuggestions: Sugestões de prompt
 
-    # The aria-label for the Toolbar element.
+    # The aria-label for the Speech to Text button
+    speechToTextButton: Fala para texto
+
+    # The aria-label for the Toolbar element
     toolbarLabel: Barra de ferramentas

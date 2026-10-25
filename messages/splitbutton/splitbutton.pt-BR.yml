@@ -1,6 +1,6 @@
 kendo:
   splitbutton:
     # The text for the SplitButton aria-label
-    splitButtonLabel: 'Botão dividido {buttonText}'
+    splitButtonLabel: 'Botão dividido [[buttonText]]'
     # The text for the SplitButton toggle button aria-label
     toggleButtonLabel: Mostrar/Ocultar

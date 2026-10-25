@@ -27,3 +27,6 @@ kendo:
 
     # The title of the parent view button in the Multiview calendar header
     parentViewButtonTitle: Ir para a visualização superior
+
+    # The label for the week number column in the MultiViewCalendar
+    weekNumberLabel: Número da semana

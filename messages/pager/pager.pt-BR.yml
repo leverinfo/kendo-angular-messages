@@ -34,4 +34,4 @@ kendo:
     inputLabel: Digite o número da página
 
     # The value of the aria-label attribute of the Pager
-    ariaLabel: 'Navegação de página, página {currentPage} de {totalPages}'
+    ariaLabel: 'Navegação de página, página [[currentPage]] de [[totalPages]]'

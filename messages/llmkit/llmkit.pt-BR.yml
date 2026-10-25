@@ -1,46 +1,46 @@
 kendo:
   llmkit:
-    # The aria-label for a collapsed disclosure head without visible text.
+    # The aria-label for a collapsed disclosure head without a visible label
     expandLabel: Expandir
 
-    # The aria-label for an expanded disclosure head without visible text.
+    # The aria-label for an expanded disclosure head without a visible label
     collapseLabel: Recolher
 
-    # The text for the ToolCall's default Approve action.
+    # The default Approve action for a ToolCall
     approveAction: Aprovar
 
-    # The text for the ToolCall's default Reject action.
+    # The default Reject action for a ToolCall
     rejectAction: Rejeitar
 
-    # The label shown above the ToolCall's default formatted-JSON parameters block.
-    parametersLabel: Parâmetros
-
-    # The label shown above the ToolCall's default formatted-JSON result block.
-    resultLabel: Resultado
-
-    # The default ToolCall badge text for the awaiting approval state.
-    awaitingApprovalStatus: Aguardando aprovação
-
-    # The default ToolCall badge text for the completed state.
-    completedStatus: Concluído
-
-    # The default ToolCall badge text for the error state.
-    errorStatus: Erro
-
-    # The aria-label for the Citation popover's Previous-source action.
-    previousSourceAction: Fonte anterior
-
-    # The aria-label for the Citation popover's Next-source action.
-    nextSourceAction: Próxima fonte
-
-    # The text for the Checkpoint's default action in the startOver state.
+    # The default action for a Checkpoint in the startOver state
     startOverAction: Recomeçar
 
-    # The text for the Checkpoint's default action in the restore state.
-    restoreAction: Restaurar checkpoint
+    # The default action for a Checkpoint in the restore state
+    restoreAction: Restaurar
 
-    # The text for the Checkpoint's default action in the redo state.
+    # The default action for a Checkpoint in the redo state
     redoAction: Refazer
 
-    # The text for the Checkpoint's default stamp shown in the redo state.
+    # The default stamp shown by a Checkpoint in the redo state
     checkpointRestoredText: Checkpoint restaurado
+
+    # The aria-label for the previous-source action in a Citation popover
+    previousSourceAction: Fonte anterior
+
+    # The aria-label for the next-source action in a Citation popover
+    nextSourceAction: Próxima fonte
+
+    # The label above a ToolCall parameters block
+    parametersLabel: Parâmetros
+
+    # The label above a ToolCall result block
+    resultLabel: Resultado
+
+    # The ToolCall badge text while awaiting approval
+    awaitingApprovalStatus: Aguardando aprovação
+
+    # The ToolCall badge text in the completed state
+    completedStatus: Concluído
+
+    # The ToolCall badge text in the error state
+    errorStatus: Erro

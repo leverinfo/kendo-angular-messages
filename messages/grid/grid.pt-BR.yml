@@ -169,19 +169,19 @@ kendo:
     sortedDefault: Não classificado
 
     # The label of the filter row and menu inputs
-    filterInputLabel: 'Filtro de {columnName}'
+    filterInputLabel: 'Filtro de [[columnName]]'
 
     # The title of the filter menu icon
-    filterMenuTitle: 'Menu de filtro de {columnName}'
+    filterMenuTitle: 'Menu de filtro de [[columnName]]'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: 'Operadores de filtro de {columnName}'
+    filterMenuOperatorsDropDownLabel: 'Operadores de filtro de [[columnName]]'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: 'Lógica de filtro de {columnName}'
+    filterMenuLogicDropDownLabel: 'Lógica de filtro de [[columnName]]'
 
     # The title of the column menu icon
-    columnMenu: 'Menu da coluna {columnName}'
+    columnMenu: 'Menu da coluna [[columnName]]'
 
     # The labels of the checkbox column checkboxes
     selectionCheckboxLabel: Selecionar linha
@@ -190,7 +190,7 @@ kendo:
     selectAllCheckboxLabel: Selecionar todas as linhas
 
     # The label of the Grid pager
-    pagerLabel: 'Navegação de página, página {currentPage} de {totalPages}'
+    pagerLabel: 'Navegação de página, página [[currentPage]] de [[totalPages]]'
 
     # The Grid aria-label
     gridLabel: Tabela de dados
@@ -235,10 +235,10 @@ kendo:
     selectAllRowsCheckboxLabel: Selecionar todas as linhas
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Operadores de célula de filtro para {columnName}'
+    filterCellOperatorLabel: 'Operadores de célula de filtro para [[columnName]]'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Célula de filtro booleano para {columnName}'
+    booleanFilterCellLabel: 'Célula de filtro booleano para [[columnName]]'
 
     # The title for the column menu Filter tab.
     columnMenuFilterTabTitle: Filtro
@@ -259,7 +259,7 @@ kendo:
     pagerInputLabel: Digite o número da página
 
     # The default text of a form validation error when using external editing
-    formValidationErrorText: 'O campo {fieldName} possui erro de validação {errorName}'
+    formValidationErrorText: 'O campo [[fieldName]] possui erro de validação [[errorName]]'
 
     # The title of the remove item confirmation Dialog
     removeConfirmationDialogTitle: Por favor, confirme
@@ -358,7 +358,7 @@ kendo:
     multiCheckboxFilterSelectAllLabel: Selecionar tudo
 
     # The text for the multi-checkbox filter selected items count
-    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} itens selecionados'
+    multiCheckboxFilterSelectedItemsCount: '[[selectedItemsCount]] itens selecionados'
 
     # The message shown when AI selection requires the Grid selectable option
     aiAssistantSelectionNotEnabled: "A seleção pode ser aplicada apenas quando a opção selecionável do Grid está habilitada."
@@ -370,7 +370,7 @@ kendo:
     aiAssistantSelectionCellModeRequired: "A seleção pode ser aplicada apenas quando o modo de seleção de célula está habilitado."
 
     # The text displayed in the Column Chooser for the number of selected columns
-    columnChooserSelectedColumnsCount: '{selectedColumnsCount} itens selecionados'
+    columnChooserSelectedColumnsCount: '[[selectedColumnsCount]] itens selecionados'
 
     # The text for the Select all checkbox in the Column Chooser
     columnChooserSelectAll: "Selecionar tudo"
@@ -474,5 +474,5 @@ kendo:
     # The screen-reader-only content for the command column header
     commandColumnHeaderLabel: Comando
 
-    # Sets the text for the group column's header when group mode is **singleColumn**.
+    # Sets the text for the group column's header when group mode is **singleColumn**
     groupsSingleColumnTitle: Grupos

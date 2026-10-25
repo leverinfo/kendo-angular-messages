@@ -119,3 +119,15 @@ kendo:
 
     # The text for the FileSelect button in the blank page drop zone
     blankPageSelect: Select files...
+
+    # The title of the Search tool drag handle.
+    searchDragHandleTitle: Alça de arrastar
+
+    # The aria-label of the PDFViewer toolbar.
+    toolbarLabel: Barra de ferramentas
+
+    # The aria-label of the zoom level chooser.
+    zoomLevelAriaLabel: Nível de zoom
+
+    # The aria-label of the search input.
+    searchAriaLabel: Texto da pesquisa
