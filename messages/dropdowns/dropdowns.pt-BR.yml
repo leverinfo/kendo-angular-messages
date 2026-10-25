@@ -28,6 +28,9 @@ kendo:
     # The accessible label of the listbox that contains the list of options
     listboxLabel: Opções
 
+    # The text displayed when the user types a custom value that is not in the list of options.
+    useCustomValueText: Usar "{customValue}"
+
   dropdownlist:
     # The text displayed in the popup when there are no items
     noDataText: Nenhum dado encontrado
@@ -124,7 +127,7 @@ kendo:
     cancelButton: Cancelar
 
     # The text displayed when the user types a custom value that is not in the list of options.
-    useCustomValueText: Use "{customValue}"
+    useCustomValueText: Usar "{customValue}"
 
     # The accessible label of the listbox that contains the list of options
     listboxLabel: Opções
